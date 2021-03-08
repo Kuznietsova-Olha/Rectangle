@@ -1,0 +1,9 @@
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Impl\bin\Debug\netstandard2.0\Rectangle.Impl.deps.json
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Impl\bin\Debug\netstandard2.0\Rectangle.Impl.dll
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Impl\bin\Debug\netstandard2.0\Rectangle.Impl.pdb
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Impl\obj\Debug\netstandard2.0\Rectangle.Impl.csprojAssemblyReference.cache
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Impl\obj\Debug\netstandard2.0\Rectangle.Impl.AssemblyInfoInputs.cache
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Impl\obj\Debug\netstandard2.0\Rectangle.Impl.AssemblyInfo.cs
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Impl\obj\Debug\netstandard2.0\Rectangle.Impl.csproj.CoreCompileInputs.cache
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Impl\obj\Debug\netstandard2.0\Rectangle.Impl.dll
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Impl\obj\Debug\netstandard2.0\Rectangle.Impl.pdb

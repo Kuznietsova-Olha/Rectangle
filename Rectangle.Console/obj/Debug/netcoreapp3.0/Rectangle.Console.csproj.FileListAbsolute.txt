@@ -1,0 +1,16 @@
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.exe
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.deps.json
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.runtimeconfig.json
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.runtimeconfig.dev.json
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.dll
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.pdb
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Impl.dll
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Impl.pdb
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.csprojAssemblyReference.cache
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.AssemblyInfoInputs.cache
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.AssemblyInfo.cs
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.csproj.CoreCompileInputs.cache
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.csproj.CopyComplete
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.dll
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.pdb
+C:\ДОКУМЕНТЫ И ЛИТЕРАТУРА\Мои задачи в (visual studio)\TASK_INFOPULSE\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.genruntimeconfig.cache
